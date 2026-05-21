@@ -2,7 +2,7 @@
 /*
 Plugin Name: Ürün Görsel Oluşturma
 Description: CDN Etegre Ürün Görsel Oluşturma Eklentisi
-Version: 5.0
+Version: 5.1
 Author: Magazac
 * GitHub Plugin URI: https://github.com/adminmagazify/destek-merkezi
 */
